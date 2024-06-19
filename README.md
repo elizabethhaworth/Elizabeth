@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images.app.goo.gl/d4JMkCW9BFqnwevg9" width="600" height="300"/>
+<img src="https://images.app.goo.gl/d4JMkCW9BFqnwevg9" width="100" height="300"/>
 </div>
 
 ### 👩‍💻 About Me:
